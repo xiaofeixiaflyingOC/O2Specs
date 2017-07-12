@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<array>
+		<dict>
+			<key>image_selected</key>
+			<string>nav_message_selected</string>
+			<key>image</key>
+			<string>nav_message</string>
+			<key>title</key>
+			<string>首页</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>家园</string>
+			<key>image_selected</key>
+			<string>nav_home_selected</string>
+			<key>image</key>
+			<string>nav_home</string>
+		</dict>
+		<dict>
+			<key>image_selected</key>
+			<string>nav_circle_selected</string>
+			<key>title</key>
+			<string>发现</string>
+			<key>image</key>
+			<string>nav_circle</string>
+		</dict>
+		<dict>
+			<key>image_selected</key>
+			<string>nav_mine_selected</string>
+			<key>image</key>
+			<string>nav_mine</string>
+			<key>title</key>
+			<string>我的</string>
+		</dict>
+	</array>
+</dict>
+</plist>
