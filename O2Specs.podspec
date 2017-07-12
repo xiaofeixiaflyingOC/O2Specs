@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "O2Specs"
-  s.version      = "0.0.1"
+  s.version      = "1.0"
   s.summary      = "Just testing"
  s.description  = <<-DESC
                    O2Specs ios sdk.
